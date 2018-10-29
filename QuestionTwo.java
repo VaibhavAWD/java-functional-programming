@@ -26,7 +26,7 @@ public class QuestionTwo {
                 System.out.println("I guess you like both equally");
             } else {
                 // This would be the correct answer
-                System.out.println("I guess you like cats more");
+                System.out.println("I guess you like cats more"); // This is the correct answer
             }
         } else {
             System.out.println("What, don’t you like pets?");
