@@ -18,7 +18,7 @@ public class QuestionSix {
         
         if (weekday >= 1 && weekday < 6 && !holiday) {
             // This would be the correct answer
-            System.out.println("Wake up at 7:00");
+            System.out.println("Wake up at 7:00"); // This is the correct answer
         } else {
             System.out.println("Sleep in!");
         }
