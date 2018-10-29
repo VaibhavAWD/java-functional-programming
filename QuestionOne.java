@@ -15,7 +15,7 @@ public class QuestionOne {
             System.out.println("We made a profit!");
         } else {
             // This would be the anser
-            System.out.println("We broke even.");
+            System.out.println("We broke even."); // This is the correct answer
         }
     }
 }
