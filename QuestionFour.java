@@ -14,7 +14,7 @@ public class QuestionFour {
         
         if (isSnowing || isRaining || temperature < 50) {
             // This would be the correct answer
-            System.out.println("Let’s stay home.");
+            System.out.println("Let’s stay home."); // This is the correct answer
         } else {
             System.out.println("Let's go out!");
         }
