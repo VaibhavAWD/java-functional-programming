@@ -13,6 +13,6 @@ public class QuestionSeven {
         }
         // This line of code may have error as there is no such variable called rewindAmount
         // It is available only in if statement above
-        playbackPosition = playbackPosition - rewindAmount;
+        playbackPosition = playbackPosition - rewindAmount; // This is the correct answer
     }
 }
