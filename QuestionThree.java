@@ -12,8 +12,8 @@ public class QuestionThree {
         boolean canSeePlayer = true;
         boolean playerPoweredUp = true;
         
-        if (canSeePlayer && !playerPoweredUp) {
-            if (canSeePlayer && playerPoweredUp) {
+        if (canSeePlayer) {
+            if (!playerPoweredUp) {
                 System.out.println("Attack!");
             } else {
                 System.out.println("Run away!");
