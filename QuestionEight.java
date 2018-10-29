@@ -32,8 +32,8 @@ public class QuestionEight {
                 break;
             case 5: schedule = "Game night after work.";
                 break;
-            case 6: schedule = "Free!";
-                break;
+            case 6:
+            case 7:
             default: schedule = "Free!";
                 break;
         }
