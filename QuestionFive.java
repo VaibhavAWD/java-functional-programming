@@ -14,7 +14,7 @@ public class QuestionFive {
             timeOfDay = "morning";
         } else if (time >= 12 && time < 20) {
             // This would be the correct answer
-            timeOfDay = "daytime";
+            timeOfDay = "daytime"; // This is the correct answer
         } else {
             timeOfDay = "night";
         }
